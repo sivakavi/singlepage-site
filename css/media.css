@@ -23,10 +23,19 @@
 	.bannercontent{
 		padding: 0;
 	}
+	.bannercontent img{
+		padding: 3em;
+	}
+	ul.social-icons {
+		padding-bottom: 1.5em;
+	}
 }
 
 @media(min-width: 768px){
 	.bannercontent{
 		padding: 11em;
+	}
+	.bannercontent img{
+		padding: 1em;
 	}
 }

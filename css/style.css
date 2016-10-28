@@ -39,19 +39,12 @@ body a:hover{
     background: url("../images/banner.jpg") no-repeat 0px 0px;
     background-position: center center;
     background-repeat:  no-repeat;
-    background-attachment: fixed;
     background-size:  cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
     margin: 0;
-}
-.header-top {
-        padding: 2em 0 0em 0;
-}
-.logo .fitness_span{
-	float: left;
 }
 .banner-w3-info{
 	margin:4em auto 0;
@@ -1477,11 +1470,11 @@ ul.social-icons.two {
 	height:400px;
 	outline:none;
 }
-.mail_right {
+/*.mail_right {
     background: #FDFFFE;
     padding: 2em;
     width: 58%;
-}
+}*/
 /*-- footer --*/
 .footer {
     background: #212322;
@@ -1582,12 +1575,12 @@ ul.social-icons.two {
 		margin: 1em auto;
 		width: 49%;
 	}
-	#home {
+	/*#home {
 		min-height: 700px;
-	}
-	.banner-w3-info {
+	}*/
+	/*.banner-w3-info {
       margin: 11em auto 0;
-	}
+	}*/
 	h2.tittle {
       font-size: 1.6em;
 	}
@@ -1712,12 +1705,12 @@ ul.social-icons.two {
 	.link--surinami {
       font-size: 3.5em;
 	}
-	.banner-w3-info {
+	/*.banner-w3-info {
 		margin: 5em auto 0;
-	}
-	#home {
+	}*/
+	/*#home {
 		min-height:573px;
-	}
+	}*/
 	a.hover-effect {
 		margin: 0 1px;
 	}
@@ -2296,11 +2289,11 @@ ul.social-icons.two {
 		width: 445px;
 		margin: 30px auto;
 	}
-	.mail_right {
+	/*.mail_right {
 		background: #FDFFFE;
 		padding: 2em;
 		width: 100%;
-	}
+	}*/
 	.adt_grids {
 		margin-top: 39px;
 	}
@@ -2441,11 +2434,11 @@ ul.social-icons.two {
 	.about_left h4 {
 		font-size: 1.1em;
 	}
-	.mail_right {
+	/*.mail_right {
 		background: #FDFFFE;
 		padding: 1em;
 		width: 100%;
-	}
+	}*/
 	.mail_us {
 		margin-bottom:22px;
 		margin-top:51px;
@@ -2712,7 +2705,6 @@ ul.social-icons.two {
 	}
 	ul.social-icons {
 		display: block;
-		padding: 0;
 		margin-top: 1em;
 	}
 	#home {
@@ -2750,7 +2742,7 @@ ul.social-icons.two {
 /*--//responsive-design---*/
 
 /*********************Customize css*******************************/
-.bannercover{
+/*.bannercover{
 	background: rgba(0, 0, 0, 0.3) url(../images/dott.png);
     background-position: center center;
     background-repeat: repeat;
@@ -2762,7 +2754,7 @@ ul.social-icons.two {
 	text-align:center;
     min-height: 100%;
     width: 100%;
-}
+}*/
 .bannercontent img{
 	height: 200px;
 	display: block;
